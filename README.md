@@ -5,7 +5,7 @@
 <br>https://jsfiddle.net/bghgen/dphuetwx/
 </li>
 <li>Рубежный контроль
-<br>https://jsfiddle.net/bghgen/ggagyra3/
+<br>https://jsfiddle.net/bghgen/qgkfhsue/
 </li>
 <li>SCORM-пакет (логин и пароль student)
 <br>https://bgh.moodlecloud.com 
